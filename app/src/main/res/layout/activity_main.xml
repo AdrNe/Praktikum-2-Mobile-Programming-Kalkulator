@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/SwitchAtas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:padding="@dimen/_12sdp"
+        android:thumb="@drawable/button_light"
+        android:thumbTint="@color/switch_atas"
+        android:track="@drawable/animasi_button"
+        tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_170sdp"
+        android:layout_above="@id/linear_number"
+        android:gravity="bottom|end"
+        android:orientation="vertical"
+        android:padding="@dimen/_16sdp">
+        
+        <TextView
+            android:id="@+id/tv_expression"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/number"
+            android:textSize="@dimen/_20ssp" />
+        
+        <TextView
+            android:id="@+id/tv_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/number"
+            android:textSize="@dimen/_32ssp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bg_tombol"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        android:padding="@dimen/_10sdp">
+        
+        <LinearLayout style="@style/LayoutLinear" >
+
+            <TextView
+                android:id="@+id/button_clear"
+                style="@style/LayoutButton"
+                android:text="@string/ce"
+                android:textColor="@color/orange" />
+
+            <TextView
+                android:id="@+id/button_open"
+                style="@style/LayoutButton"
+                android:text="@string/open_bracket"
+                android:textColor="@color/orange" />
+
+            <TextView
+                android:id="@+id/button_close"
+                style="@style/LayoutButton"
+                android:text="@string/close_bracket"
+                android:textColor="@color/orange" />
+
+            <TextView
+                android:id="@+id/button_distribution"
+                style="@style/LayoutButton"
+                android:text="@string/distribution"
+                android:textColor="@color/orange" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/LayoutLinear" >
+
+            <TextView
+                android:id="@+id/number_seven"
+                style="@style/LayoutButton"
+                android:text="@string/seven"
+                android:textColor="@color/number" />
+
+            <TextView
+                android:id="@+id/number_eight"
+                style="@style/LayoutButton"
+                android:text="@string/eight"
+                android:textColor="@color/number" />
+
+            <TextView
+                android:id="@+id/number_nine"
+                style="@style/LayoutButton"
+                android:text="@string/nine"
+                android:textColor="@color/number" />
+
+            <TextView
+                android:id="@+id/button_times"
+                style="@style/LayoutButton"
+                android:text="@string/times"
+                android:textColor="@color/orange" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/LayoutLinear" >
+
+            <TextView
+                android:id="@+id/number_four"
+                style="@style/LayoutButton"
+                android:text="@string/four"
+                android:textColor="@color/number" />
+
+            <TextView
+                android:id="@+id/number_five"
+                style="@style/LayoutButton"
+                android:text="@string/five"
+                android:textColor="@color/number" />
+
+            <TextView
+                android:id="@+id/number_six"
+                style="@style/LayoutButton"
+                android:text="@string/six"
+                android:textColor="@color/number" />
+
+            <TextView
+                android:id="@+id/button_minus"
+                style="@style/LayoutButton"
+                android:text="@string/minus"
+                android:textColor="@color/orange" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/LayoutLinear" >
+
+            <TextView
+                android:id="@+id/number_one"
+                style="@style/LayoutButton"
+                android:text="@string/one"
+                android:textColor="@color/number" />
+
+            <TextView
+                android:id="@+id/number_two"
+                style="@style/LayoutButton"
+                android:text="@string/two"
+                android:textColor="@color/number" />
+
+            <TextView
+                android:id="@+id/number_three"
+                style="@style/LayoutButton"
+                android:text="@string/three"
+                android:textColor="@color/number" />
+
+            <TextView
+                android:id="@+id/button_plus"
+                style="@style/LayoutButton"
+                android:text="@string/plus"
+                android:textColor="@color/orange" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/LayoutLinear" >
+
+            <LinearLayout
+                android:id="@+id/backspace"
+                style="@style/LayoutButton"
+                android:textColor="@android:color/white">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:drawableStartCompat="@drawable/backspace"
+                    app:drawableTint="@color/number" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/number_zero"
+                style="@style/LayoutButton"
+                android:text="@string/zero"
+                android:textColor="@color/number" />
+
+            <TextView
+                android:id="@+id/button_coma"
+                style="@style/LayoutButton"
+                android:text="@string/coma"
+                android:textColor="@color/number" />
+
+            <TextView
+                android:id="@+id/button_togheter_with"
+                style="@style/LayoutButton"
+                android:text="@string/togheter_with"
+                android:textColor="@color/orange" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
