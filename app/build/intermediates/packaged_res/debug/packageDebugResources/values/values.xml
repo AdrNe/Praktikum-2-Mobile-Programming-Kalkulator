@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="button">#F3F3F3</color>
+    <color name="grey">#f9f9f9</color>
+    <color name="number">#FF000000</color>
+    <color name="orange">#FFA500</color>
+    <color name="tosca">#206B7E</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Tugas 2 Kalkulator</string>
+    <string name="ce">CE</string>
+    <string name="close_bracket">)</string>
+    <string name="coma">.</string>
+    <string name="distribution">:</string>
+    <string name="eight">8</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="minus">-</string>
+    <string name="nine">9</string>
+    <string name="one">1</string>
+    <string name="open_bracket">(</string>
+    <string name="plus">+</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="three">3</string>
+    <string name="times">X</string>
+    <string name="togheter_with">=</string>
+    <string name="two">2</string>
+    <string name="zero">0</string>
+    <style name="Base.Theme.Tugas2Kalkulator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="LayoutButton">
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/_20ssp</item>
+        <item name="android:background">@drawable/bg_tombol_one</item>
+        <item name="android:layout_marginStart">@dimen/_6sdp</item>
+        <item name="android:layout_marginEnd">@dimen/_3sdp</item>
+    </style>
+    <style name="LayoutLinear">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/_55sdp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_marginTop">@dimen/_16sdp</item>
+        <item name="android:layout_marginStart">@dimen/_20sdp</item>
+        <item name="android:layout_marginEnd">@dimen/_20sdp</item>
+        <item name="android:layout_marginBottom">@dimen/_8sdp</item>
+    </style>
+    <style name="Theme.Tugas2Kalkulator" parent="Base.Theme.Tugas2Kalkulator"/>
+</resources>

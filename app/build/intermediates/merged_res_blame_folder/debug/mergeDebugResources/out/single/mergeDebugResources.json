@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.tugas2kalkulator.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.tugas2kalkulator.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\drawable_bg_tombol.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\drawable\\bg_tombol.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\drawable_button_light.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\drawable\\button_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\drawable_bg_tombol_one.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\drawable\\bg_tombol_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\drawable_backspace.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\drawable\\backspace.xml"
+    },
+    {
+        "merged": "com.example.tugas2kalkulator.app-debug-33:/drawable_bg_tombol_one.xml.flat",
+        "source": "com.example.tugas2kalkulator.app-main-35:/drawable/bg_tombol_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\drawable_sun.png.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\drawable\\sun.png"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\drawable_animasi_button.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\drawable\\animasi_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\xml\\backup_rules.xml"
+    }
+]

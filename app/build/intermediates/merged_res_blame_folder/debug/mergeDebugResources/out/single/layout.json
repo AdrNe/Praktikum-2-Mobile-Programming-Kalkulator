@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\GAMER\\.gradle\\daemon\\8.7\\com.example.tugas2kalkulator.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.tugas2kalkulator.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.tugas2kalkulator.app-main-35:/layout/activity_main.xml"
+    }
+]

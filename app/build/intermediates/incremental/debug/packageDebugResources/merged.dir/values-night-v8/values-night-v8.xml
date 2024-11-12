@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#2C313A</color>
+    <color name="black">#FF000000</color>
+    <color name="button">#272b33</color>
+    <color name="grey">#22252d</color>
+    <color name="number">#FFFFFFFF</color>
+    <color name="orange">#FFA500</color>
+    <color name="switch_atas">#FFFFFFFF</color>
+    <color name="tosca">#206B7E</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="Base.Theme.Tugas2Kalkulator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+</resources>
